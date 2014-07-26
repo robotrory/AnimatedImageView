@@ -1,8 +1,4 @@
-/*
- * Copyright (c) 2014 8tracks Inc. All rights reserved.
- */
-
-package com.e8tracks.ui.views.gif;
+package com.smithyproductions.animatedimageview;
 
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;
